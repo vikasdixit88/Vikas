@@ -10,3 +10,5 @@
 **This is bold.**
 
 _This is italics._
+
+`This is code block`
