@@ -29,4 +29,4 @@ _This is italics._
    * item 1-1
 
 1. item 1
-   a.   sub item1 
+    1. sub item1 
