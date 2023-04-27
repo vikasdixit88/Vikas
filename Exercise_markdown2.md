@@ -31,3 +31,10 @@ _This is italics._
 1. item 1
     1. sub item1 
     2. sub item2
+
+> Attach files by dragging and dropping, selecting or pasting them.
+
+
+***
+
+Attach files by dragging and dropping, selecting or pasting them.
