@@ -17,4 +17,7 @@ _This is italics._
 * This is level 1
 
 - level 1
-  - level 2
+  * level 2
+
+* level 1
+  * level 2
