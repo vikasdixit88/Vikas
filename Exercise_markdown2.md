@@ -8,5 +8,4 @@
 ![Details of symbols in a flowchart](basic-symbols-table.jpg)
 
 **This is bold.**
-
 _This is italics._
