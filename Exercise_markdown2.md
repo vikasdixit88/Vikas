@@ -39,6 +39,6 @@ _This is italics._
 
 Attach files by dragging and dropping, selecting or pasting them.
 
-| heading 1 | heading 2 | heading 3|
-| --- | --- | --- |
+|heading 1|heading 2|heading 3|
+|---|---|---|
 |col1|col2|col3|
